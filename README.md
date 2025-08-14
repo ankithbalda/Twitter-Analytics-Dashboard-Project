@@ -54,5 +54,56 @@ The project involved:
 
 ---
 
-## 📂 Repository Structure
+
+## 🚀 Getting Started
+
+### 1️⃣ Requirements
+- **Power BI Desktop** (latest version)
+- **Windows 10 or higher**
+- `Tweet.xlsx` dataset (included in this repo)
+
+### 2️⃣ Open in Power BI
+1. Download this repository.
+2. Open the `.pbix` file (if included) or connect Power BI to `Tweet.xlsx`.
+3. Apply data transformations as documented in the internship report.
+
+### 3️⃣ Explore the Dashboard
+- Use slicers to filter by **date, engagement rate, tweet type**.
+- Toggle time-based visibility.
+
+---
+
+## 🌟 Customization
+- Replace `Tweet.xlsx` with your own Twitter data to reuse the dashboard.
+- Adjust filtering logic in DAX to match your business needs.
+- Change visualization styles in Power BI's **Format** pane.
+
+---
+
+## 📸 Sample Dashboard 
+
+<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/715e4dd7-c370-45aa-acb1-8dd8785f26ac" />
+
+
+---
+
+## 📄 License
+This project is released under the **MIT License** – feel free to fork and adapt for your own use.
+
+---
+
+## 🙋 Author
+**Name:** Ankith Balda 
+
+**Email:** ankithbalda.wk@gmail.com 
+
+**LinkedIn:** https://www.linkedin.com/in/ankith-balda-812177278/
+
+**GitHub:** https://github.com/ankithbalda
+ 
+
+---
+
+💡 *This Twitter Analytics Dashboard highlights the power of combining data analytics skills with business intelligence tools to turn raw data into actionable insights.*
+
 
