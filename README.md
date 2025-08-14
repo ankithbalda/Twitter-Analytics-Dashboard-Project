@@ -87,10 +87,6 @@ The project involved:
 
 ---
 
-## 📄 License
-This project is released under the **MIT License** – feel free to fork and adapt for your own use.
-
----
 
 ## 🙋 Author
 **Name:** Ankith Balda 
